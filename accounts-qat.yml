@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to ZaneBank accounts related QA APIs"
+  contactDetails:
+    name: "Henry Tran - QA Lead"
+    email: "henrytran@gmail.com"
+  onCallSupport:
+    - (666) 444-1234
+    - (666) 222-4232

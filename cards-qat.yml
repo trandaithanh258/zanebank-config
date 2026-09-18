@@ -1,0 +1,11 @@
+build:
+  version: "2.1"
+
+cards:
+  message: "Welcome to ZaneBank cards related QA APIs"
+  contactDetails:
+    name: "Hanna Tran - QA Lead"
+    email: "hannatran@gmail.com"
+  onCallSupport:
+    - (777) 114-1234
+    - (888) 787-4232

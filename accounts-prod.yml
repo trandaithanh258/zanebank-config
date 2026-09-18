@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to ZaneBank accounts related prod APIs"
+  contactDetails:
+    name: "Tom Tran - Product Owner"
+    email: "tomtran@gmail.com"
+  onCallSupport:
+    - (654) 245-8754
+    - (584) 265-1545

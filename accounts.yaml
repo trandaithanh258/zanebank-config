@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to ZaneBank accounts related local APIs"
+  contactDetails:
+    name: "Zane Tran - Developer"
+    email: "zanetran@gmail.com"
+  onCallSupport:
+    - (222) 222-4567
+    - (222) 333-7458

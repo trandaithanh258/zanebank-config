@@ -1,0 +1,11 @@
+build:
+  version: "2.1"
+
+loans:
+  message: "Welcome to ZaneBank loans related QA APIs"
+  contactDetails:
+    name: "Selena Tran - QA Lead"
+    email: "selenatran@gmail.com"
+  onCallSupport:
+    - (333) 555-1234
+    - (333) 666-4232

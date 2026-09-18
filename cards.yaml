@@ -1,0 +1,10 @@
+build:
+  version: "3.3"
+cards:
+  message: "Welcome to ZaneBank cards related local APIs"
+  contactDetails:
+    name: "Zane Tran - Developer"
+    email: "zanetran@gmail.com"
+  onCallSupport:
+    - (748) 452-4567
+    - (875) 247-7458

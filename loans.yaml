@@ -1,0 +1,11 @@
+build:
+  version: "3.1"
+
+loans:
+  message: "Welcome to ZaneBank loans related local APIs"
+  contactDetails:
+    name: "Zane Tran - Developer"
+    email: "zanetran@gmail.com"
+  onCallSupport:
+    - (111) 222-4567
+    - (111) 333-7458
