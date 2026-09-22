@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to ZaneBank accounts related QA APIs"
+  message: "Welcome to ZaneBank accounts related QAT APIs"
   contactDetails:
     name: "Henry Tran - QA Lead"
     email: "henrytran@gmail.com"
