@@ -2,7 +2,7 @@ build:
   version: "1.1"
 
 loans:
-  message: "Welcome to ZaneBank loans related production APIs"
+  message: "Welcome to ZaneBank loans related prod APIs"
   contactDetails:
     name: "Eddie Tran - Product Owner"
     email: "Eddietran@gmail.com"
