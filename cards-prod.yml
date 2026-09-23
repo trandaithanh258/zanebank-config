@@ -2,7 +2,7 @@ build:
   version: "1.2"
 
 cards:
-  message: "Welcome to ZaneBank cards related wwebhook APIs"
+  message: "Welcome to ZaneBank cards related webhook APIs"
   contactDetails:
     name: "Shane Tran - Product Owner"
     email: "shanetran@gmail.com"
